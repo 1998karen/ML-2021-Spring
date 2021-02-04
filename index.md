@@ -13,7 +13,7 @@
 5. [Jupyter Notebook для интерактивных вычислений.](http://math-hse.info/f/2018-19/py-polit/instruction_JN.pdf)
 6. [Русскоязычные онлайн-курсы.](https://pythonworld.ru/kursy/free.html)
 7. [Англоязычный интерактивный туториал.](https://www.learnpython.org/)
-8. [NumPy туториал.](https://numpy.org/doc/stable/user/quickstart.html)
+8. [NumPy туториал](https://numpy.org/doc/stable/user/quickstart.html) + ["Шпаргалка"](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 9. [Matplotlib туториал.](https://matplotlib.org/tutorials/introductory/pyplot.html)
 10. [Pandas туториал](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 11. [NumPy, Matplotlib, Pandas общий краткий туториал](https://yadi.sk/i/pWwVPxvL3N9mX3)
@@ -23,7 +23,6 @@
 1. [machinelearning.ru](http://www.machinelearning.ru/) - информационный ресурс, посвященный машинному обучению, распознаванию образов и интеллектуальному анализу данных.
 2. [Руководство](https://yerevann.com/a-guide-to-deep-learning/) по глубокому обучению от YerevaNN.
 3. [Scikit-Learn](https://scikit-learn.org/stable/index.html) - документация одноименной библиотеки машинного обучения
-4. 
 
 **Онлайн-курсы**
 
@@ -36,30 +35,25 @@
 1. [Bishop C. M. Pattern Recognition and Machine Learning. Springer, 2006.](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 2. [Ian Goodfellow , Yoshua Bengio , Aaron Courville, Deep Learning, The MIT Press, 2016.](https://www.deeplearningbook.org/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Лекции
 
-- Bulleted
-- List
+1. Введение в машинное обучение. Python: [слайды](https://docs.google.com/presentation/d/1UtQ8I5p_KGRBigW-qQY6x6enFq5G2eo8IMGDdn4JWZ8/edit?usp=sharing), [теоретическое задание](https://forms.gle/KDhnV9ocRpMFffZN6), [практическое задание](https://yadi.sk/i/8yuMGmCOaF8fNg).
 
-1. Numbered
-2. List
+2. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn: слайды, теоретическое задание, практическое задание.
 
-**Bold** and _Italic_ and `Code` text
+3. Линейные методы классификации. Метрики качества классификации: слайды, теоретическое задание.
 
-[Link](url) and ![Image](src)
-```
+4. Переобучение. Регуляризация. Перекрестная проверка: слайды, теоретическое задание.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Извлечение и отбор признаков. Признаковое описание текстов: слайды, теоретическое задание.
 
-### Jekyll Themes
+6. Kaggle InClass соревнование “Классификация новостных текстов”: страница соревнования на Kaggle, слайды, базовое решение.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1998karen/ML-2021-Spring/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+7. Метод k-ближайших соседей. Наивный байесовский классификатор: слайды.
 
-### Support or Contact
+8. Дерево решений. Bagging. Random Forest. Boosting: слайды.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+9. Введение в нейронные сети. Keras: слайды, теоретическое задание.
+
+10. Глубокое обучение. Перенос обучения. Сверточные сети: слайды.
